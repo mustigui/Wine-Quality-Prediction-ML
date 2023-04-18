@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://theecologist.org/sites/default/files/styles/inline_l/public/NG_media/77780.jpg?itok=xaoab9x-" alt="Project logo"></a>
+ <img width=200px height=200px src="https://storage.googleapis.com/kaggle-datasets-images/4458/6836/30587db9a40233164f65a4a3f148f40d/dataset-cover.jpg?t=2017-11-12-14-28-34" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Red Wine Quality Prediction with ML</h3>
