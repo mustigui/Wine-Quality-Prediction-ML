@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://www.vrbo.com/vacation-ideas/wp-content/uploads/2SnDOARDxyvjtG88xpyJx6/606857dc8732c491e792fba8e60d6211/photo-1506377247377-2a5b3b417ebb.jpg" alt="Project logo"></a>
